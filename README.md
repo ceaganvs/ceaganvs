@@ -1,0 +1,32 @@
+# Hey, I'm Ceagan 👋
+
+I'm a developer working through a full-stack Python course, building real projects along the way. Most of my work right now is in Django and Python.
+
+---
+
+## Projects
+
+**[News Outside](https://github.com/ceaganvs/news_outside)**
+A Django news platform with role-based access (reader, journalist, editor), publisher management, reader subscriptions, email notifications, a REST API, and X (Twitter) integration. Containerised with Docker and MariaDB.
+
+**[Ecommerce Marketplace](https://github.com/ceaganvs/Ecommerce-marketplace)**
+A Django eCommerce app with store and product management, a REST API, password reset flow, and X integration for new listing announcements.
+
+**[Sticky Notes App](https://github.com/ceaganvs/sticky-notes-app)**
+A Python app for creating, viewing, and managing personal notes.
+
+**[Shopleft](https://github.com/ceaganvs/Shopleft)**
+A front-end HTML/CSS shopping site.
+
+---
+
+## Stack
+
+- Python · Django · Django REST Framework
+- Docker · MariaDB · SQLite
+- HTML · CSS
+- Git · GitHub
+
+---
+
+*Always building something.*

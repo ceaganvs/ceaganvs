@@ -1,6 +1,7 @@
 # Hey, I'm Ceagan 👋
 
 I'm a developer working through a full-stack Python course, building real projects along the way. Most of my work right now is in Django and Python.
+Im also a heavy early adopter. 
 
 ---
 

@@ -19,6 +19,11 @@ A Python app for creating, viewing, and managing personal notes.
 **[Shopleft](https://github.com/ceaganvs/Shopleft)**
 A front-end HTML/CSS shopping site.
 
+**[The Online Firm](https://theonlinefirm.com)**
+ AI-powered accounting platform for South African SMEs — web app, native mobile apps, and WhatsApp-native workflows.
+
+**[Maijob](https://maijob.co.za)**
+AI-powered career/recruitment platform for South African users.
 ---
 
 ## Stack
@@ -27,7 +32,10 @@ A front-end HTML/CSS shopping site.
 - Docker · MariaDB · SQLite
 - HTML · CSS
 - Git · GitHub
-
+- AWS - Lambda, Bedrock, SES, DynamoDB, API Gateway
+- Vercel 
+- Resend
+- Prisma
 ---
 
 *Always building something.*

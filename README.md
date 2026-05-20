@@ -1,8 +1,14 @@
 # Hey, I'm Ceagan 👋
 
-I'm a developer working through a full-stack Python course, building real projects along the way. Most of my work right now is in Django and Python.
+I started my journey with java back in 2008(throw back to JGrasp IDE), by the time we got to 2010, I learned that java married XML and later had a baby called Android(thrownack to eclipse IDE). Built a couple of apps over the years unpublished. 
+To me Java and XMl being my first coding languages in my garden of Eden, later a python came in my direction and tried to tempt me, I learned about it but was a bit focused on Android dev.
+Later HTML, CSS, and javascript visited us, and never left. Instead of studying IT, i went the finance route. Who wouldve thunk, right? 
+I kept my foot in the pond of IT, adding pen testing skills to my arsenal, such as Kali Linux, i wont go to deep on this topic. **REDACTED**
+Oh Kotlin came too, forgot about that, never bothered to learn cotlin. I attempted C++, done some VBA, even built my own add-ins in excel. 
+Im currently learning about Solidify and how smart contracts work on the blockchain and how to create tokens too.
 Im also big on AI, training data creating agents and even chatbots,using cloudbased and offline models. My question to you is, do you even AI? 
 
+So thats my story, my portfolio doesnt match my knowledge right? 
 ---
 
 ## Projects

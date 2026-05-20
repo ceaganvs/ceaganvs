@@ -1,6 +1,6 @@
 # Hey, I'm Ceagan 👋
 
-I started my journey with java back in 2008(throw back to JGrasp IDE), by the time we got to 2010, I learned that java married XML and later had a baby called Android(thrownack to eclipse IDE). Built a couple of apps over the years unpublished. 
+I started my journey with java back in 2008(throw back to JGrasp IDE), by the time we got to 2010, I learned that java married XML and later had a baby called Android(throwback to eclipse IDE). Built a couple of apps over the years unpublished. 
 To me Java and XMl being my first coding languages in my garden of Eden, later a python came in my direction and tried to tempt me, I learned about it but was a bit focused on Android dev.
 Later HTML, CSS, and javascript visited us, and never left. Instead of studying IT, i went the finance route. Who wouldve thunk, right? 
 I kept my foot in the pond of IT, adding pen testing skills to my arsenal, such as Kali Linux, i wont go to deep on this topic. **REDACTED**

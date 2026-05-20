@@ -1,7 +1,7 @@
 # Hey, I'm Ceagan 👋
 
 I'm a developer working through a full-stack Python course, building real projects along the way. Most of my work right now is in Django and Python.
-Im also a heavy early adopter. 
+Im also big on AI, training data creating agents and even chatbots,using cloudbased and offline models. My question to you is, do you even AI? 
 
 ---
 
@@ -33,9 +33,11 @@ AI-powered career/recruitment platform for South African users.
 - HTML · CSS
 - Git · GitHub
 - AWS - Lambda, Bedrock, SES, DynamoDB, API Gateway
+- Pinecone
 - Vercel 
 - Resend
 - Prisma
+- Typescript
 ---
 
 *Always building something.*
